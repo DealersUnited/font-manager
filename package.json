@@ -1,5 +1,5 @@
 {
-	"name": "@samuelmeuli/font-manager",
+	"name": "@buyerbridge/font-manager",
 	"version": "1.4.0",
 	"description": "Manages, downloads and applies Google Fonts for picker components",
 	"author": {
@@ -7,7 +7,7 @@
 		"email": "me@samuelmeuli.com",
 		"url": "https://samuelmeuli.com"
 	},
-	"repository": "github:samuelmeuli/font-manager",
+	"repository": "github:DealersUnited/font-manager",
 	"license": "MIT",
 	"keywords": [
 		"fonts",
